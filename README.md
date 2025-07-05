@@ -42,8 +42,10 @@ The project uses these libraries:
 - **matplotlib** & **seaborn**: Data visualization
 - **kagglehub**: Data source access
 
-## 🎨 Visualization Resources
+## 🎨 What i learned  
 
+Data analysis is not about desscribing what you see in the plots, its explain why you plotted that, highlighting interesting patterns and raise questions.
+It's about using external knowledge and research to form and back up hypotheses to explain patterns.
 Useful websites for creating nice plots:
 - [Python Graph Gallery](https://python-graph-gallery.com/)
 - [Data to Viz](https://www.data-to-viz.com/)
