@@ -15,10 +15,23 @@ Simply upload the `who_suicides_analysis.ipynb` file to Google Colab and run it.
 If you want to run locally:
 
 ```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# Windows:
+venv\Scripts\activate
+# Linux/Mac:
+source venv/bin/activate
+
 # Install dependencies
 pip install -r requirements.txt
 
-# Start Jupyter Notebook
+# Option A: Use an IDE (Recommended)
+# Open the project in VS Code, PyCharm, or your preferred IDE
+# The notebook will work in any IDE that supports Jupyter notebooks
+
+# Option B: Use Jupyter Notebook
 jupyter notebook who_suicides_analysis.ipynb
 ```
 
