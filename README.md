@@ -6,34 +6,8 @@ An Exploratory Data Analysis (EDA) of the World Health Organization (WHO) suicid
 
 This project analyzes global suicide data to identify patterns, trends, and factors that may influence suicide rates across different countries, age groups, and demographics.
 
-## 🚀 Quick Start
-
-### Option 1: Google Colab (Recommended)
-Simply upload the `who_suicides_analysis.ipynb` file to Google Colab and run it. All dependencies will be automatically installed.
-
-### Option 2: Local Setup
-If you want to run locally:
-
-```bash
-# Create virtual environment
-python -m venv venv
-
-# Activate virtual environment
-# Windows:
-venv\Scripts\activate
-# Linux/Mac:
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Option A: Use an IDE (Recommended)
-# Open the project in VS Code, PyCharm, or your preferred IDE
-# The notebook will work in any IDE that supports Jupyter notebooks
-
-# Option B: Use Jupyter Notebook
-jupyter notebook who_suicides_analysis.ipynb
-```
+## 🚀 How to use
+Just click the Open in Colab button, the plots are generated with plotly, so in github they do not show up
 
 ## 📦 Dependencies
 
