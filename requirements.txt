@@ -1,6 +1,0 @@
-# Core libraries used in the analysis
-numpy
-pandas
-matplotlib
-seaborn
-kagglehub
