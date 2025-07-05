@@ -5,7 +5,9 @@ An Exploratory Data Analysis (EDA) of the World Health Organization (WHO) suicid
 ## 📊 Project Overview
 
 This project analyzes global suicide data to identify patterns, trends, and factors that may influence suicide rates across different countries, age groups, and demographics.
-
+key features:
+a circular barplot
+a function to plot interactive charts
 ## 🚀 How to use
 Just click the Open in Colab button, the plots are generated with plotly, so in github they do not show up
 
