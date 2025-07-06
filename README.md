@@ -15,9 +15,10 @@
 ## 📊 **Insights & Conclusions**  
 
 ### 🌍 **Global Trends**  
-- Suicide rates **peaked in the 1990s** (especially in Russia) but declined steadily post-1994.  
+- Suicide rates **peaked in the 1990s** (especially in Russia) but declined steadily post-1994.
+- The suicide rate — and consequently, the risk of suicide — increases with age.
 - **Men die by suicide about 3× more often than women** across all age groups and years.  
-- Adults aged **35–54** account for the majority of suicides globally,  as they represent a significant portion of the global population.
+- Adults aged **35–54** account for the majority of suicides globally, as they represent a significant portion of the global population.
 
 > ⚠️ **Data limitations:**
 > *The dataset lacks information on important variables such as mental health status, socioeconomic level, access to healthcare, or quality of reporting systems. These limitations should be considered when interpreting results. Suicide may be **underreported or misclassified** in some countries.*
