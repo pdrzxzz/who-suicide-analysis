@@ -1,3 +1,5 @@
+![Suicide number and rate by country and year](imgs/countries-by-year.png)
+
 # 🌍 WHO Suicide Analysis  
 
 **An Exploratory Data Analysis (EDA) of global suicide trends (1980–2015) using WHO data.**  
@@ -9,7 +11,7 @@
 - **Custom plotting function** (`plot_suicide_charts_interactive`) for comparative analysis.  
 - **Country-specific deep dives** (Russia, USA, Japan, Brazil, Mexico).
   
-## 🚀 **Explore the analysis**  
+## 🚀 **Explore the analysis and interact with the plots**  
 1. **Click here**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdrzxzz/who-suicide-analysis/blob/main/who_suicides_analysis.ipynb)
 
 ## 📊 **Insights & Conclusions**  
