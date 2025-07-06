@@ -2,7 +2,7 @@
 
 # 🌍 WHO Suicide Analysis  
 
-**An Exploratory Data Analysis (EDA) of global suicide trends (1980–2015) using WHO data.**  
+**An Exploratory Data Analysis (EDA) of global suicide trends (1980–2015) using World Health Organization (WHO) data.**  
 *Identifying patterns across countries, age groups, and demographics to understand risk factors and societal influences.*  
 
 ## 📌 **Key Features**  
